@@ -1,7 +1,7 @@
 # PleaseHelpDongBin
 <html>
 	<head>
-		<title>bronzeDongBin</title>
+		
 	</head>
 	<body>
 		<img src= "hope.jpg">
